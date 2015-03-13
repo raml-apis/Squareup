@@ -1,7 +1,7 @@
 ---
 site: https://api-notebook.anypoint.mulesoft.com/notebooks#85d02a93160e0044239c
 apiNotebookVersion: 1.1.66
-title: Squareup API Notebook  (modifier-lists, categories, discounts, fees, pages)
+title: Modifier-lists, categories, discounts, fees, pages
 ---
 
 ```javascript

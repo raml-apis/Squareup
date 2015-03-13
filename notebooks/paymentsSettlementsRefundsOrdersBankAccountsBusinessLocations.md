@@ -1,7 +1,7 @@
 ---
 site: https://api-notebook.anypoint.mulesoft.com/notebooks#7bbd2752e1fdcb75c48d
 apiNotebookVersion: 1.1.66
-title: Squareup API Notebook (payments, settlements, refunds, orders, bank accounts, business, locations)
+title: Payments, settlements, orders, business, locations
 ---
 
 ```javascript

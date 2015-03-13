@@ -1,7 +1,7 @@
 ---
 site: https://api-notebook.anypoint.mulesoft.com/notebooks#1273f28c8107d5bd3a1e
 apiNotebookVersion: 1.1.66
-title: Squareup API Notebook (items, inventory, root, batch)
+title: Items, inventory, root, batch
 ---
 
 ```javascript
